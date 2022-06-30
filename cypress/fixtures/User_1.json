@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "firstName": "Aman",
+            "lastName": "Jaiswal",
+            "email": "amanjaiswal40yahoo.in",
+            "comments": "I am new to js"
+        },
+        {
+            "firstName": "Sakshi",
+            "lastName": "Jaiswal",
+            "email": "sakshijaiswal@gmai.com",
+            "comments": "I am new in codeing"
+        }
+    ]
+}

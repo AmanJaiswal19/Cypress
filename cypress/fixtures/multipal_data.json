@@ -1,0 +1,20 @@
+[
+    {
+        "firstname": "aman",
+        "lastname": "jaiswal",
+        "email": "aj@gmail.com",
+        "message": "Learning js"
+    },
+    {
+        "firstname": "sakshi",
+        "lastname": "jaiswal",
+        "email": "sj@gmail.com",
+        "message": "Learning sql"
+    },
+    {
+        "firstname": "amol",
+        "lastname": "rao",
+        "email": "hello@gmail.com",
+        "message": "Learning dev oops3"
+    }
+]
